@@ -19,3 +19,6 @@ It uses Scrapingant API as amazon have algorithm to detect the scrapping script,
 
 The whole software is divided into two parts, the first part extract products from product listing page, with their url, name, price, rating and number of review detail.
 In part 2, we extract every single product page, to obtain its description, asin and manufacturer.
+
+Output File:
+<img width="1280" src="https://github.com/user-attachments/assets/36be71a8-606e-4c85-ac25-aacd4eeb1f1e" />
